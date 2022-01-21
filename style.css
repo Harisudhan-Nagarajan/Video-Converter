@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+#main{
+   margin-top: 15%;
+}
+
+#alert{
+    color: rgb(221, 49, 49);
+}
